@@ -5,7 +5,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awxander&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awxander&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awxander)](https://github.com/anuraghazra/github-readme-stats)
 
